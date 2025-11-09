@@ -23,8 +23,8 @@ The simulation includes:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/covenant/starlinkApi.git
-   cd starlinkApi
+   git clone https://github.com/covenant-org/stationV0.git
+   cd stationV0
    ```
 
 2. **Create a virtual environment:**
